@@ -98,7 +98,3 @@ ps 명령어는 다양한 옵션을 사용하여 다양한 형식으로 정보�
 
 * `kill` 명령어를 사용할 때 유의해야 할 점은 권한이 있는 프로세스만 종료할 수 있음. 일반적으로 사용자는 자신이 소유한 프로세스나 관리자 권한을 가진 경우 다른 사용자의 프로세스를 종료할 수 있음.
 
-<!---
-nohyunju/nohyunju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
